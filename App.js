@@ -17,6 +17,7 @@ export default function Signup() {
         <View style={styles.item_input}>
           <PageHeading text={"Bio"} />
           <Text style="styles.label" text=""></Text>
+          <InputFIeld name={"Gourab Ranjan Podder"} />
           <InputFIeld name={"Gourab"} />
           <InputFIeld name={"Enter your Contact Number"} />
           <InputFIeld name={"Interests"} />
